@@ -1,40 +1,31 @@
 # 🐍 Estudos de Python
 
-Repositório com os exercícios e projetos que estou desenvolvendo durante o curso **Python** do Luiz Otávio Miranda (Udemy, 141h).
+Exercícios e anotações do curso de **Python** (Luiz Otávio Miranda, Udemy - 141h), praticados durante meus estudos para ingressar na área de tecnologia.
 
 ## 👨‍💻 Sobre
 
-Estou cursando Engenharia de Software e trabalho como assistente administrativo (Jovem Aprendiz) na Prosegur. Este repositório documenta meu aprendizado em Python enquanto busco uma oportunidade na área de tecnologia.
+Estou cursando Engenharia de Software e trabalho como assistente administrativo (Jovem Aprendiz) na Prosegur. Este repositório documenta minha prática de Python enquanto busco uma oportunidade na área de tecnologia.
 
-## 📂 Estrutura
+## 📂 Conteúdo
 
-```
-estudos-python/
-├── semana-01/
-│   ├── exercicios.py
-│   └── README.md
-├── semana-02/
-│   ├── exercicios.py
-│   └── README.md
-├── semana-03/
-...
-└── README.md
-```
-
-Cada pasta `semana-XX/` corresponde a uma semana do meu cronograma de estudos e contém:
-- Os exercícios resolvidos
-- Um pequeno `README.md` explicando os principais conceitos vistos naquela semana
-
-## 🗂️ Progresso
-
-| Semana | Tópicos | Status |
-|--------|---------|--------|
-| 01 | Introdução, variáveis, tipos de dados | 🔲 |
-| 02 | Estruturas condicionais | 🔲 |
-| 03 | Laços de repetição (for, while) | 🔲 |
-| ... | ... | 🔲 |
-
-> Vou atualizando essa tabela conforme avanço no curso.
+| Arquivo | Tópico |
+|---------|--------|
+| `aula1.py` | Introdução — `print()`, comentários |
+| `aula2.py` | `print()` com parâmetros `sep` e `end` |
+| `aula3.py` | Strings — aspas simples/duplas, caracteres de escape (`\n`) |
+| `aula4.py` | Tipos numéricos — `int` e `float`, função `type()` |
+| `aula5.py` | Tipo `bool` e operadores de comparação (`==`) |
+| `aula6.py` | Conversão de tipos (type casting/coerção) |
+| `aula7.py` | Variáveis — atribuição, boas práticas (PEP8) |
+| `aula8.py` | Variáveis — prática com múltiplos tipos |
+| `aula9.py` | Operadores aritméticos (`+`, `-`, `*`, `/`, `//`, `**`, `%`) |
+| `aula10.py` | Concatenação e repetição de strings |
+| `aula11.py` | Ordem de precedência dos operadores |
+| `aula12.py` | Prática — cálculo de IMC com variáveis |
+| `aula13.py` | Formatação de strings com f-strings |
+| `aula14.py` | Formatação de strings com `.format()` |
+| `aula15.py` | Entrada de dados com `input()` |
+| `aula16.py` | Estruturas condicionais — `if` / `elif` / `else` |
 
 ## 🛠️ Tecnologias
 
@@ -43,4 +34,4 @@ Cada pasta `semana-XX/` corresponde a uma semana do meu cronograma de estudos e 
 
 ## 📌 Observação
 
-Os exercícios seguem a estrutura do curso, mas sempre que possível adiciono comentários próprios e pequenas variações para reforçar o aprendizado.
+Os exercícios seguem a estrutura do curso, com anotações próprias nos comentários para reforçar o aprendizado.
